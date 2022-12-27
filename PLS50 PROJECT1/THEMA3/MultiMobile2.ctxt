@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MultiMobile2
+comment1.params=
+comment1.target=MultiMobile2()
+comment2.params=
+comment2.target=int\ read_time()
+comment3.params=
+comment3.target=int\ read_messages()
+comment4.params=seconds\ sms
+comment4.target=double\ calculate_invoice(int,\ int)
+comment5.params=seconds\ sms
+comment5.target=double\ calculate_invoice_free(int,\ int)
+comment6.params=
+comment6.target=void\ calc_largest()
+numComments=7
